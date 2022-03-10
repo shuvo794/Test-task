@@ -7,6 +7,7 @@ import Create from "./components/Create/Create";
 import { UserProvider } from "./components/UserContext/UserContext";
 import Delete from "./components/Delete/Delete";
 import Edit from "./components/Edit/Edit";
+import Footer from "./components/Saherd/Footer/Footer";
 
 function App() {
   return (
@@ -33,6 +34,7 @@ function App() {
               <NotFound />
             </Route>
           </Switch>
+          <Footer/>
         </Router>
       </div>
     </UserProvider>
