@@ -14,7 +14,7 @@ const Home = () => {
     <div>
       <Header />
       <Container>
-        <h1 className="text-center mb-3 mt-5 text-info ">
+        <h1 className="text-center mb-5 mt-5 text-info ">
           <b>Our Team Management System</b>
         </h1>
         <Link to="/create">
