@@ -8,7 +8,7 @@ const Header = () => {
       <div className="header-area">
         <Navbar expand="lg">
           <NavLink to="/" className="logo">
-            <span>Text Task.</span>
+            <span>Test Task.</span>
           </NavLink>
           <Navbar.Toggle aria-controls="basic-navbar-nav" />
           <Navbar.Collapse id="basic-navbar-nav">
