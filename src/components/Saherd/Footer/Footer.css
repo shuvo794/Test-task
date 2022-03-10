@@ -1,11 +1,11 @@
 .footer{
     width: 100%;
-    background: firebrick;
+    background: rgb(14, 14, 14);
     height:150px ;
     margin-top: 120px;
     position:absolute;
     bottom: 0;
-    box-shadow: 0px -3px 10px 2px #d70202;
+    box-shadow: 0px -3px 10px 2px #95a5a6;
 
 }
 .footer-text{

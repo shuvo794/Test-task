@@ -1,7 +1,7 @@
 .header-area {
-    background: firebrick;
+    background: rgb(14, 14, 14);
     padding: 8px 0;
-    box-shadow: 0px -3px 10px 2px #d70202;
+    box-shadow: 0px -3px 10px 2px #2b2929;
     position: relative;
 }
 
